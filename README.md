@@ -1,3 +1,10 @@
-[
-  "8659457813:AAEa1_onDr5pqDHffVqbV4fv7zqSALsL1NM"
-]
+{
+  "tokens": [
+    "8764852540:AAFCUU7p0sL9YduksenWaPuN4x-_f9FxHUM",
+    "token2",
+    "8960034898:AAFEPEdmHpJNVaEfBEu7WxkPbvnDhEDso2I",
+    "8706703242:AAHKnyGsrQ_4HZH_15dUN23hlvA9_DxB8NQ",
+    "8855282498:AAEpOHzYEGFChmYRiwOXBEjFA3xpGkDYp-I",
+    "8824902521:AAEcvQYHkpOEXwFEd0tVemLD7Y50q8cfm4c"
+  ]
+}
